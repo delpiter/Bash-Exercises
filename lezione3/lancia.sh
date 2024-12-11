@@ -1,0 +1,3 @@
+export NOMIFILES="$# $@"
+
+./stampaargs.sh

@@ -1,0 +1,5 @@
+Scrivere un file di t*sto con almeno
+cinque righe cia*cuna contenente almeno se*te parole
+sepa*ate	da	spazi e tabulazioni. Mettete in
+qualche parola anche un a*terisco poi
+utilizzare il	coman*o cut	per visualizzare vid*o
